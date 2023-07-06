@@ -25,12 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![product-preview-screenshot](https://github.com/aomsk/product-preview-card-component/blob/main/assets/product-preview-screenshot.png?raw=true)
 
 ### Links
 
-- Solution URL: [My Solution]()
-- Live Site URL: [Product preview card component]()
+- Solution URL: [My Solution](https://www.frontendmentor.io/solutions/product-preview-card-component-with-html-css-OpyMNtj8V3)
+- Live Site URL: [Product preview card component](https://aomsk.github.io/product-preview-card-component/)
 
 ## My process
 
